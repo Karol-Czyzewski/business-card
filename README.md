@@ -1,7 +1,7 @@
 ![photo business-card](github/cardPhoto.png)
 
-### Wizytówka Karola Czyżewskiego
+# Wizytówka Karola Czyżewskiego
 
-# Projest powstał w ramach szkolenia WTF: Co ten frontend. 
+## Projest powstał w ramach szkolenia WTF: Co ten frontend. 
 
 
