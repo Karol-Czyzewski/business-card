@@ -32,9 +32,9 @@ body {
 
 .person__photo {
     border-radius: 82px;
-    padding: 24px;
     height: 162px;
     width: 162px;
+    margin-right: 32px; 
 }
 
 .person__name {
