@@ -57,8 +57,18 @@ body {
   margin: 24px 32px 0 0;
 }
 
+.card__description--bold {
+  color: #ed6d05;
+  font-weight: normal;
+}
+
 .card__contact {
   font-size: 16px;
   line-height: 22px;
   margin: 24px 32px 32px 0;
+}
+
+.card__contact--bold {
+  color: #e20613;
+  font-weight: normal;
 }
