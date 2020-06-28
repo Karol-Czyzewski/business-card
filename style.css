@@ -71,4 +71,5 @@ body {
 .card__contact--bold {
   color: #e20613;
   font-weight: normal;
+  text-decoration: none;
 }
